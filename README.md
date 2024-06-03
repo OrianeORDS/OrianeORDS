@@ -1,6 +1,9 @@
 <h> 👋 Hi, I’m @OrianeORDS </h1> 
 <br>
-her/she, I am french, and currently learning backend dev. I also love badminton, and painting. 
+-- my pronouns are : her/she
+-- 🥐 I am french 
+-- 💾Currently learning backend dev
+-- 🏸I also love badminton, and 🖌 painting. 
 
 
 <!---
