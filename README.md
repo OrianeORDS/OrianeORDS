@@ -1,4 +1,5 @@
-👋 Hi, I’m @OrianeORDS her/she, I am french, and currently learning backend dev. I also love badminton, and painting. 
+<h> 👋 Hi, I’m @OrianeORDS </h1> 
+her/she, I am french, and currently learning backend dev. I also love badminton, and painting. 
 
 
 <!---
